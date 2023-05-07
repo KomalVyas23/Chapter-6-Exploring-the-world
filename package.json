@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Lets learn and implement React",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KomalVyas23/Chapter02-IgnitingOurApp.git"
+  },
+  "author": "Komal Vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KomalVyas23/Chapter02-IgnitingOurApp/issues"
+  },
+  "homepage": "https://github.com/KomalVyas23/Chapter02-IgnitingOurApp#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
