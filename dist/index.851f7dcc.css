@@ -1,0 +1,37 @@
+header {
+  height: 60px;
+  background-color: #aaa;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px 75px;
+  display: flex;
+}
+
+.col-3 {
+  width: 25%;
+}
+
+.logo {
+  max-height: 50px;
+}
+
+.search-col {
+  margin: auto;
+  padding: 0 20px;
+}
+
+.searchInput {
+  height: 50px;
+  width: 100%;
+  border: 1px solid #f5f5f5;
+  border-radius: 5px;
+  font-size: 22px;
+}
+
+.user-col {
+  text-align: right;
+  color: #555;
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=index.851f7dcc.css.map */
